@@ -41,6 +41,7 @@ A simple **Business Central AL** project to manage book details, lending informa
 
 Screenshots
 
+Book_List.jpg
 
 
 
